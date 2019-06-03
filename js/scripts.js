@@ -18,4 +18,4 @@ else{
     alert("not triangle")
 }
 }
-document.getElementById('button').addEventListener('click', triangleTracker);
+document.getElementById('button').addEventListener('onclick', triangleTracker);
